@@ -8,4 +8,4 @@ over:
 bad_uptime: true
 discovery:
     - sysDescr_regex:
-        - '/^Meraki MR/'
+        - '/^Meraki.*Managed AP/'
